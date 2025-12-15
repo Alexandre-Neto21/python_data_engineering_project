@@ -63,7 +63,7 @@ SELECT Name FROM Largest_banks LIMIT 5
 
 5 - Log every step of the code execution
 
-## Reposityory Structure:
+## Repository Structure:
 ```pgsql
 project/
 │
@@ -151,3 +151,4 @@ Alexandre Neto
 IBM Data Engineering Professional Certificate
 
 LinkedIn: https://www.linkedin.com/in/alexandre-neto-04a1a122b/
+
